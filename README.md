@@ -9,5 +9,5 @@
 [![Link Demo](https://img.shields.io/badge/Link_Demo-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/drive/folders/1GgIbAMTNGfE5fkngoGUJzZZIYT7x2RGt?usp=sharing)
 <br><br>
 ## Poster
-<img src="src/image/poster.png" alt="poster kelompok 4">
+<img src="Poster CariFilm Kelompok 4.png" alt="poster kelompok 4">
 <br><br>
