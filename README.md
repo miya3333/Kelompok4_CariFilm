@@ -5,7 +5,7 @@
 ### 3. `312310200` Aldi Hermansyah
 ### 4. `312310731` Dzikry Eza Yusuf
 <br><br>
-Poster
-
+## Poster
+<img src="file/Poster CariFilm.png" alt="poster kelompok 4">
 <br><br>
-Link Video Demo
+[![Link Demo](https://img.shields.io/badge/Link_Demo-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/drive/folders/1GgIbAMTNGfE5fkngoGUJzZZIYT7x2RGt?usp=sharing)
